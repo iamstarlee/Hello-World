@@ -1,4 +1,2 @@
 # Hello-World
-My first repository
-I will share my ideas or others' here.
-Let the game begin!
+My first repository's branch, I'm just trying to say something but nothing to say...
